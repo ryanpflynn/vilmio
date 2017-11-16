@@ -1,0 +1,13 @@
+Flask==0.12.2
+functools32==3.2.3.post2
+html5lib==0.999999999
+ipaddress==1.0.17
+itsdangerous==0.24
+Jinja2==2.9.6
+jsonschema==2.6.0
+PyMySQL==0.7.11
+pyodbc==3.0.10
+pyOpenSSL==16.2.0
+python-dateutil==2.6.1
+scandir==1.5
+simplejson==3.10.0
